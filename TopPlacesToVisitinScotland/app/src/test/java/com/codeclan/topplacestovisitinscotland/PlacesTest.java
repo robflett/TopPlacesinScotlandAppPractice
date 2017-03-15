@@ -21,4 +21,16 @@ public class PlacesTest {
         assertEquals(7, places.getRanking() );
     }
 
+    @Test
+    public void getPlacenameTest() {
+        assertEquals("Strontian", places.getPlacename());
+
+    }
+
+    @Test
+    public void getLocationTest() {
+        assertEquals("West Coast", places.getLocation());
+
+    }
+
 }

@@ -15,7 +15,7 @@ public class TopPlacesinScotland {
     {
         place = new ArrayList<Places>();
         place.add(new Places(1, "Melvich Bay", "Sutherland"));
-        place.add(new Places(2, "Melvich Bay", "Sutherland"));
+        place.add(new Places(2, "", "Sutherland"));
         place.add(new Places(3, "Melvich Bay", "Sutherland"));
         place.add(new Places(4, "Melvich Bay", "Sutherland"));
         place.add(new Places(5, "Melvich Bay", "Sutherland"));
