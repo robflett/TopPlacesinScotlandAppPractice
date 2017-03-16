@@ -18,7 +18,7 @@ public class Places {
 
     }
 
-    public int getRanking() {
+    public Integer getRanking() {
         return ranking;
     }
 

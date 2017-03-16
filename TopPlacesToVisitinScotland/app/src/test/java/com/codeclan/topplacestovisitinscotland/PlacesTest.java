@@ -18,7 +18,8 @@ public class PlacesTest {
 
     @Test
     public void getRankingTest() {
-        assertEquals(7, places.getRanking() );
+
+        assertEquals((Integer)7, places.getRanking());
     }
 
     @Test
